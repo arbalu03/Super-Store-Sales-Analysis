@@ -32,4 +32,5 @@ This chart give a geographic perspective on sales.It visually represents sales d
 expand the futuritstic strategies and sales growth over the regions.
 
 
-![Capture1](https://github.com/arbalu03/Super-Store-Sales-Analysis/assets/136765506/6222f459-4460-416d-9dc0-0d8731e3e724)
+![Power BI Dashboard](https://github.com/arbalu03/Super-Store-Sales-Analysis/assets/136765506/a9f3b78d-4e9c-4719-a03c-02873c029f82)
+
