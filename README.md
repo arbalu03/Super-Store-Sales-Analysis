@@ -4,7 +4,7 @@ via Power Bi dashboard, which provide valueble insights and information ,that ca
 trends and perfromance over those years. and also they can change their sales strategies by fetching valueble insights from this analysis.
 
 
- # key Performance Indicators (KPIs):
+ # Key Performance Indicators (KPIs):
 
 This dashbord displays some Key Performance Indiacators (KPI's) such as
 Total Orders, Total Products, Total Sales, Total Customers, Total Unit Sold,Total Shipping Cost and Total Proft.
