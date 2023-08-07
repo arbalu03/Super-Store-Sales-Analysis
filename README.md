@@ -1,5 +1,4 @@
-
-    **Super-Store-Sales-Analysis **       
+# Super-Store-Sales-Analysis      
    This repository show cases Sales Analysis Report of the markerting giant SuperStore over the couple of years.
 via Power Bi dashboard, which provide valueble insights and information ,that can help stake holders to identify the
 trends and perfromance over those years. and also they can change their sales strategies by fetching valueble insights from this analysis.
