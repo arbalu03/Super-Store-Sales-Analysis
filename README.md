@@ -1,5 +1,5 @@
 
-    Super-Store-Sales-Analysis        
+    **Super-Store-Sales-Analysis **       
    This repository show cases Sales Analysis Report of the markerting giant SuperStore over the couple of years.
 via Power Bi dashboard, which provide valueble insights and information ,that can help stake holders to identify the
 trends and perfromance over those years. and also they can change their sales strategies by fetching valueble insights from this analysis.
@@ -15,7 +15,7 @@ These KPIs give glance of company's sales performance.
 This chart will displays total sales and counts of products over the remarkable financial years.
 this will show case how the  company progressing with it trends.
 
-    Donut Chart
+    **Donut Chart**
 
 This dashboard includes Three interactive doughnut charts that offer insights of Top5 Countries and Top 5 Regions and Markers by their sales.
 
