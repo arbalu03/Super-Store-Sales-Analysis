@@ -37,5 +37,5 @@ expand the futuritstic strategies and sales growth over the regions.
 
 # POWER BI DASHBOARD
 
-![Power BI Dashboard](https://github.com/arbalu03/Super-Store-Sales-Analysis/assets/136765506/a9f3b78d-4e9c-4719-a03c-02873c029f82)
+![Power BI Dashboard](https://github.com/arbalu03/Super-Store-Sales-Analysis/assets/136765506/2d1a00e2-46c6-4f81-98dc-7e6d3eb3576c)
 
