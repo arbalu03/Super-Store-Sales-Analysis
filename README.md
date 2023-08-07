@@ -3,7 +3,7 @@
 via Power Bi dashboard, which provide valueble insights and information ,that can help stake holders to identify the
 trends and perfromance over those years. and also they can change their sales strategies by fetching valueble insights from this analysis.
 
-Link to watch: [Presentation of the Super Store Sales Analysis Dashboard](https://pages.github.com/](https://drive.google.com/file/d/1iMcagn10d81xvR2nVaRMEQFI8TsOfWG9/view?usp=drive_link).
+Link to watch: [Presentation of the Super Store Sales Analysis Dashboard] ([https://pages.github.com/](https://drive.google.com/file/d/1iMcagn10d81xvR2nVaRMEQFI8TsOfWG9/view?usp=drive_link).
 
 
  # Key Performance Indicators (KPIs):
